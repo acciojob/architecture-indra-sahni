@@ -1,4 +1,12 @@
 /*  your css code here. If applicable */
-.imageContainer{
+.body{
 	width: 1100px;
+	background-color:red;
+}
+.imageContainer>img{
+	width: 200px;
+	background-color:red;
+}
+.imageContainer>p{
+	width: 600px;
 }
